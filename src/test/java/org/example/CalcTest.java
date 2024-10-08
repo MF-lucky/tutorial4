@@ -12,6 +12,6 @@ public class CalcTest {
     }
     @Test
     void subtraction() {
-        assertEquals(8,c.subtract(4,2));
+        assertEquals(2,c.subtract(4,2));
     }
 }
